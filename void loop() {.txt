@@ -1,0 +1,25 @@
+void loop() {
+    /* do some logic*/
+
+    DebugLog("Starting Loop()");
+    void PowerUp();
+
+}
+
+void PowerUp() {
+    DebugLog("running PowerUp");
+    while(true) {
+        //game logic
+    }
+}
+
+
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
+>> Starting Loop()
